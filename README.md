@@ -1,2 +1,8 @@
 # KD1b
-KD1b PocketMine
+- get Kills and Deaths and Ratio.
+# Commands
+- /kills : get Kills Player Sender.
+- /deaths : get Deaths Player Sender.
+- /ratio : get Ratio Player Sender.
+# Download
+- Soon..
