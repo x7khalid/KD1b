@@ -1,0 +1,16 @@
+name: KD1b
+main: iBa4x\KD\main
+version: 1.0.0
+api: [2.0.0]
+auther: iBa4x
+website: https://github.com/iBa4x/KD1b
+commands:
+  kills:
+    description: get Kills Player Sender.
+  deaths:
+    description: get Deaths Player Sender.
+  ratio:
+    description: get Ratio Player Sender.
+  stats:
+    description:  get Kills, Deaths, Ratio, for player online.
+    permission: kd1b.command.stats
