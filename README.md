@@ -7,4 +7,4 @@ get Kills and Deaths and Ratio.
 - /stats [player] : get Kills, Deaths, Ratio, for player online.
 - Download
 - 
-- Soon..
+- https://www.imagicalmine.net/community/plugins/kd1b.589/
