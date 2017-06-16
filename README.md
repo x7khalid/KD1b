@@ -1,10 +1,10 @@
 #KD1b
-get Kills and Deaths and Ratio.
+- get Kills, Deaths & Ratio.
 #Commands
-- /kills : get Kills Player Sender.
-- /deaths : get Deaths Player Sender.
-- /ratio : get Ratio Player Sender.
-- /stats [player] : get Kills, Deaths, Ratio, for player online.
+- /kills : get your Kills.
+- /deaths : get your Deaths.
+- /ratio : get your Ratio.
+- /stats [player] : get Kills, Deaths, Ratio, for any player online.
 - Download
 - 
 - https://www.imagicalmine.net/community/plugins/kd1b.589/
